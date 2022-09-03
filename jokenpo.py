@@ -32,7 +32,7 @@ def against_bot(lis):
         elif us == 3:
             printres(us, bot, 'Bot')
                 
-# case 2
+#case 2
     elif bot == 2:
         if us == 3:
             printres(us, bot, 'Você')
